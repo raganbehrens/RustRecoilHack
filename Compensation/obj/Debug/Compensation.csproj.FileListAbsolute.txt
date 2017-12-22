@@ -1,0 +1,10 @@
+C:\Users\Smurf\source\repos\Compensation\Compensation\bin\Debug\Compensation.exe.config
+C:\Users\Smurf\source\repos\Compensation\Compensation\bin\Debug\Compensation.exe
+C:\Users\Smurf\source\repos\Compensation\Compensation\bin\Debug\Compensation.pdb
+C:\Users\Smurf\source\repos\Compensation\Compensation\obj\Debug\Compensation.csprojResolveAssemblyReference.cache
+C:\Users\Smurf\source\repos\Compensation\Compensation\obj\Debug\Compensation.Form1.resources
+C:\Users\Smurf\source\repos\Compensation\Compensation\obj\Debug\Compensation.Properties.Resources.resources
+C:\Users\Smurf\source\repos\Compensation\Compensation\obj\Debug\Compensation.csproj.GenerateResource.Cache
+C:\Users\Smurf\source\repos\Compensation\Compensation\obj\Debug\Compensation.csproj.CoreCompileInputs.cache
+C:\Users\Smurf\source\repos\Compensation\Compensation\obj\Debug\Compensation.exe
+C:\Users\Smurf\source\repos\Compensation\Compensation\obj\Debug\Compensation.pdb
